@@ -98,7 +98,7 @@ $(document).ready(function () {
         {
             number: 20,
             info: "Data kedua puluh",
-            date: "2023-07-21T15:45:00"
+            date: "2023-07-21T05:45:00"
         },
     ];
     // Tambahkan data lainnya di sini...
